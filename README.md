@@ -1,13 +1,17 @@
-# GCD Finder
+# Math algorithms
+
+## Description
+
+This repository contains a collection of math algorithms written in C, with the purpose of improving my programming skills.
 
 ## Usage
     
-To use this program, simply download the `gcd.c` file from the repository and compile it, for example using gcc:
+To use any of the C scripts, simply download the `.c` file from any folder and compile it, for example using gcc:
 
-    gcc gcd.c -o gcd
+    gcc fle.c -o file
 
 Then, run the program using the following command:
 
-    ./gcd
+    ./file
 
 and follow the instructions.
