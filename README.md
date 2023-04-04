@@ -6,12 +6,4 @@ This repository contains a collection of math algorithms written in C, with the 
 
 ## Usage
     
-To use any of the C scripts, simply download the `.c` file from any folder and compile it, for example using gcc:
-
-    gcc fle.c -o file
-
-Then, run the program using the following command:
-
-    ./file
-
-and follow the instructions.
+To use any of the algorithms, simply download the corresponding file (`.c` or `.java`) and compile it with your favorite compiler. Most of the algorithms are written in C, so you can compile them with `gcc` or `clang`, for example. Some algorithms are written in Java, which can be compiled with `javac`.
